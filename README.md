@@ -15,3 +15,6 @@ Ecrire un trigger en insertion permettant de contrôler les contraintes suivante
 insertion permettant d’implémenter une numérotation automatique de la clé. Le premier numéro
 doit être 1.
 
+## Resolution
+In queries.sql file above
+
