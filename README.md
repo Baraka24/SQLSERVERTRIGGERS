@@ -17,6 +17,3 @@ doit être 1.
 
 ## Resolution
 In queries.sql file above
-
-
-
